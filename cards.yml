@@ -1,0 +1,11 @@
+faction:
+  x: 75
+  y: 75
+  width: 75
+  height: 75
+human:
+  extends: faction
+  file: backup.svg
+drone:
+  extends: faction
+  file: auto-repair.svg
