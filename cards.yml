@@ -9,3 +9,8 @@ human:
 drone:
   extends: faction
   file: auto-repair.svg
+illustration:
+  x: 237.5
+  y: 237.5
+  width: 350
+  height: 350
