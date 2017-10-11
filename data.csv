@@ -1,5 +1,5 @@
 name,faction,power,illustration
-Ninja,human,Use the power of another player,ninja-mask.svg
-Pirate,human,Steal 1 card from another player,pirate-skull.svg
-Zombie,drone,Take a card from the discard pile,shambling-zombie.svg
-Robot,drone,Draw two cards,robot-golem.svg
+Ninja,human,Use the power of another player,ninja-mask
+Pirate,human,Steal 1 card from another player,pirate-skull
+Zombie,drone,Take a card from the discard pile,shambling-zombie
+Robot,drone,Draw two cards,robot-golem
